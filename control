@@ -1,0 +1,9 @@
+Package: com.hearse.slowmo
+Name: SlowMo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Slow Motion functionality for the Photos App
+Maintainer: Hearse
+Author: Hearse
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
